@@ -1,5 +1,8 @@
-# 01- Calculator
-    4 işlemin yanı sıra alan ve çevreyi hesaplayan windows forms uygulama örneği.
+# 02- Age Calculator
+    DateTimePicker ile kullanıcıdan doğum tarihini alan ve yaşını hesaplayan windows forms örnek uygulaması.
     
 ## Proje Videosu
-https://user-images.githubusercontent.com/109849483/210141103-cf71d452-2832-4733-aa4d-9c81d29b7c0a.mp4
+
+
+https://user-images.githubusercontent.com/109849483/210141419-1f951249-2ef0-4152-8ccb-203dcd3b1fbd.mp4
+
