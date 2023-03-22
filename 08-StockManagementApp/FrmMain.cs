@@ -10,11 +10,17 @@ using System.Windows.Forms;
 
 namespace _08_StockManagementApp
 {
-    public partial class Form1 : Form
+    public partial class FrmMain : Form
     {
-        public Form1()
+        public FrmMain()
         {
             InitializeComponent();
+        }
+
+        private void btnCategory_Click(object sender, EventArgs e)
+        {
+            FrmCategory frmCategory = new FrmCategory();
+            frmCategory.Show();
         }
     }
 }
