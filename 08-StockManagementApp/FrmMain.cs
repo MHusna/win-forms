@@ -22,5 +22,11 @@ namespace _08_StockManagementApp
             FrmCategory frmCategory = new FrmCategory();
             frmCategory.Show();
         }
+
+        private void btnProduct_Click(object sender, EventArgs e)
+        {
+            FrmProduct frmProduct = new FrmProduct();
+            frmProduct.Show();
+        }
     }
 }
